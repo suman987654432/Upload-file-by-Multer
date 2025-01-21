@@ -25,6 +25,7 @@ const Display = () => {
             <table border="1" width="600">
                 <thead>
                     <tr>
+
                         <th>Image</th>
                         <th>Roll No</th>
                         <th>Name</th>
